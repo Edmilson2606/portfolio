@@ -1,0 +1,25 @@
+.navbar {
+    display: grid;
+    grid-template-columns: 80% auto;
+    height: 137px;
+}
+
+.navbar ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+}
+
+.navbar ul:first-child {
+    gap: 96px;
+}
+
+.navbar ul:last-child {
+    gap: 24px;
+}
+
+.navbar a {
+    color: aliceblue !important;
+    text-decoration: none;
+}

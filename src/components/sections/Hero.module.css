@@ -1,0 +1,11 @@
+.hero h1 {
+    font-size: 36px;
+}
+
+.hero p {
+    margin-left: 36px;
+}
+
+.hero button {
+    margin-left: 72px;
+}

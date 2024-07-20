@@ -1,0 +1,24 @@
+.projects {
+    margin-top: 96px;
+}
+
+.projects h1 {
+    font-size: 36px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 80px;
+    padding: 20px;
+    margin: 2rem 10rem 2rem 5rem;
+}
+
+.container div {
+    border: 1px solid #0F1624;
+    border-radius: 50px 0px;
+    background: #0F1624;
+    box-shadow: 0px 0px 5px 0px #FFFFFF;
+    padding: 1rem;
+}
+

@@ -1,0 +1,24 @@
+.card img {
+    width: 100%;
+    height: auto;
+    transition-duration: 0.5s;
+}
+
+.card img:hover {
+    transform: translateY(-7px);
+    transition-duration: 0.5s;
+}
+
+.card h3 {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.tech {
+    display: flex;
+    align-items: center;
+}
+
+.tech img {
+    height: 30px;
+}

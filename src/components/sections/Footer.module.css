@@ -1,0 +1,21 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 80%;
+    margin-bottom: 36px;
+}
+
+.footer ul {
+    list-style: none;
+    font-size: 24px;
+}
+
+.footer ul:last-child {
+    display: flex;
+    gap: 36px;
+}
+
+.footer a {
+    color: #FFFFFF !important;
+}
