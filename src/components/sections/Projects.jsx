@@ -53,7 +53,8 @@ function Projects() {
                             tech3={ vite }
                             title="Portfólio"
                             description="Este portfólio foi desenvolvido com técnicas modernas que demonstram as habilidades técnicas e profissionais."
-                            site=""
+                            site="https://edmilson-portfolio.netlify.app/"
+                            repo="https://github.com/Edmilson2606/portfolio"
                         />
                     </div>
 
